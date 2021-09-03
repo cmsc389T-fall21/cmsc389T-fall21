@@ -19,7 +19,7 @@ Once you have been added to your team on Github, take the following steps to set
       - ```git config --global user.name "your_name_here"```
       - ```git config --global user.email your_email_here```
 3. Add your ssh-keys to your GitHub account 
-4. Clone your repository using ssh ```git clone git@...```
+4. Clone your repository using ssh ```git clone git@github.com:cmsc389T-fall21/verify-setup.git```
 
 If you don't already have git installed on your command line, follow the directions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 

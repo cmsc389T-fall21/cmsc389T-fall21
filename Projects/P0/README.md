@@ -42,7 +42,7 @@ git push -u origin setup
 
 Once you have cloned the repository, test your Java installation:
 
-If you don't already already have java installed, you can install it through [OpenJDK](https://openjdk.java.net/install/).
+If you don't already already have Java installed, you can install it through [OpenJDK](https://openjdk.java.net/install/).
 
 ```bash
 cd path_to_repo/Projects/P0
@@ -70,4 +70,4 @@ On ELMS, submit the output of the TestHelloWorld JUnit test.
 
 ## Academic Integrity
 
-Please **carefully read** the academic honesty section of the course syllabus. **Any evidence** of impermissible cooperation on projects, use of disallowed materials or resources, or unauthorized use of computer accounts, **will be** submitted to the Student Honor Council, which could result in an XF for the course, or suspension or expulsion from the University. Be sure you understand what you are and what you are not permitted to do in regards to academic integrity when it comes to project assignments. These policies apply to all students, and the Student Honor Council does not consider lack of knowledge of the policies to be a defense for violating them. Full information is found in the course syllabus, which you should review before starting.
+Please **carefully read** the academic honesty section of the course syllabus. **Any evidence** of impermissible cooperation on projects, use of disallowed materials or resources, or unauthorized use of computer accounts, **will be** submitted to the Student Honor Council, which could result in an XF for the course, or suspension or expulsion from the University. Be sure you understand what you are and what you are not permitted to do in regards to academic integrity when it comes to project assignments. These policies apply to all students, and the Student Honor Council does not consider a lack of knowledge of the policies to be a defense for violating them. Full information is found in the course syllabus, which you should review before starting.

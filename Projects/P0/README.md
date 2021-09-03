@@ -12,7 +12,7 @@ Sign up for a team on [this google sheets](https://docs.google.com/spreadsheets/
 Your assigned TA will add you to your team on Github. 
 
 ## Set Up Your Local Git Environment
-Once you have been added to your team on Github, take the following steps to set up your Local Git Environment:
+Once you have been added to your team on Github, take the following steps to set up your Local Git Environment in your command line:
 
 1. Generate your ssh-keys with ```ssh-keygen```
 2. Configure your local environment with your name and email
@@ -20,6 +20,8 @@ Once you have been added to your team on Github, take the following steps to set
       - ```git config --global user.email your_email_here```
 3. Add your ssh-keys to your GitHub account 
 4. Clone your repository using ssh ```git clone git@...```
+
+If you don't already have git installed on your command line, follow the directions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 Once you have cloned the remote repository, checkout the setup branch
 
@@ -39,6 +41,8 @@ git push -u origin setup
 ## Checking Your Java Installation
 
 Once you have cloned the repository, test your Java installation:
+
+If you don't already already have java installed, you can install it through [OpenJDK](https://openjdk.java.net/install/).
 
 ```bash
 cd path_to_repo/Projects/P0

@@ -1,6 +1,6 @@
 # Project 0
 Due: 09/10, 11:59pm EST (Late 09/13, 09/17)
-Survey Soft Deadline: 09/06
+Survey Soft Deadline: 09/07, 11:59pm
 
 ## Class Survey
 
@@ -59,11 +59,14 @@ java -cp "junit-4.10.jar:." org.junit.runner.JUnitCore TestHelloWorld
 ```
 
 If you are using a Windows machine, you may need to modify the classpath to use semicolons instead of colons:
+
 ```
 cd path_to_repo\Projects\P0
 javac -cp "junit-4.10.jar;." TestHelloWorld.java
 java -cp "junit-4.10.jar;." org.junit.runner.JUnitCore TestHelloWorld
 ```
+
+On ELMS, submit the output of the TestHelloWorld JUnit test.
 
 ## Academic Integrity
 

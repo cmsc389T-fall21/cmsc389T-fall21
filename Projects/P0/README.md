@@ -8,7 +8,7 @@ Take the class survey to give us your information and class preferences [here](h
 
 ## Team Formation
 
-Sign up for a team on [this google sheets](https://docs.google.com/spreadsheets/d/1Vpk3ItHD1IkxlZtybxKcOvl4k_ZeH98llw5K6LoltDs/edit?usp=sharing). You must be signed in to your terpmail email to access the link AND provide your FULL NAME (First and Last) to receive credit for this.
+Sign up for a team on [this google sheet](https://docs.google.com/spreadsheets/d/1Vpk3ItHD1IkxlZtybxKcOvl4k_ZeH98llw5K6LoltDs/edit?usp=sharing). You must be signed in to your terpmail email to access the link AND provide your FULL NAME (First and Last) to receive credit for this.
 Your assigned TA will add you to your team on Github. 
 
 ## Set Up Your Local Git Environment

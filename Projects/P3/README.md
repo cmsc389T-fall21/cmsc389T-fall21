@@ -1,20 +1,18 @@
-# Project 2: PacMan CI
+# Project 3: PacMan CI
 
-Due: 01/18, 11:59pm EDT (Late 01/19 11:59pm)
+Due: 11/05, 11:59pm EDT (10% Late 11/08 11:59pm, 20% Late 11/12 11:59pm)
 
 ## Before You Start
 
-Make sure you have completed both P1 and P0 before you start this project.
+Make sure you have completed P2 before you start this project.
 
-**It is important you do not start the following steps before Wednesday**. There will be a lecture on Wednesday on GitHub Actions which is the first part of the project. On Wednesday, your project managers will also make your repos public so that your team can complete Part 3 of the project. If you start this project before we make your repositories public, you will most likely deplete this organization's minutes
-
-**This project will require collaborating among 8 people**. This project is being released on Monday to give teams time to schedule when they need to complete their tasks by. Some key steps to take before Wednesday:
+**This project will require collaborating among at least 8 people**. Some key initial steps to take are,
 
 - Create cards for Part 1, 2, and 3 and assign deadlines. 
   - Add these deadlines on your cards on your Kanban Board to make thenm visible to the entire team 
   - Features needs to be merged to main by your PM - make sure they also know when your deadline is.
 - Reach out to the other team and communicate on when both teams will have Part 2 completed by
-  - Create a channel on slack with both teams to open a channel of communication. 
+  - Ensure that you have a way to communicate with all teams that you have been paired with 
   - Each team will need to complete Part 2 before the other team can fork their repository. The deadlines on your cards will help communicate this
 
 ## Introduction
@@ -27,12 +25,12 @@ In this project, you will adding Continous Integration pipelines to your PacMan 
 - Sabotage - FTR-sabotage
 - Good Samaritan - FTR-fix
 
-The instructions below call for branching a feature-item for each member rather than for each function. Since there isn't much code development in this project, and some parts of the project may feel repetitive, this may be an easier format for branching. However, if you would like to create a feature-item for each function as we did in P1, you are free to use that format as well. Make sure the entire team chooses only one of these two strategies for consistency.
+The instructions below call for branching a feature-item for each member rather than for each function. Since there isn't much code development in this project, and some parts of the project may feel repetitive, this may be an easier format for branching. However, if you would like to create a feature-item for each function as we did in P2, you are free to use that format as well. Make sure the entire team chooses only one of these two strategies for consistency.
 
 
 ## Part 1: GitHub Actions
 
-Only one person from each team needs to take the following steps:
+**Only one person** from each team needs to take the following steps:
 
 1. Create a feature-item actions-setup for the main.yaml file 
 2. Add a main.yml file to your feature-item that uses the openjdk image and compiles all of your files
@@ -89,7 +87,7 @@ Only one person from each team needs
 Once the repository has been forked, the team should
 
 4. Analyze the tests failing the issues 
-5. Divide and conquer the necessary fixes (you may want to fix the same functions you sabotaged in Part 1 and wrote for Project 1)
+5. Divide and conquer the necessary fixes (you may want to fix the same functions you sabotaged in Part 1 and wrote for Project 2)
 
 Each member should
 

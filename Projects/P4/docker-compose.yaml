@@ -1,0 +1,11 @@
+version: "3"
+  
+services:
+  hooks_example:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hooks_example
+    container_name: hooks_example
+    volumes:
+      - .:/home/pyusr/app

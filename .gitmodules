@@ -1,0 +1,3 @@
+[submodule "Projects/P5/cmsc389T-web-template"]
+	path = Projects/P5/cmsc389T-web-template
+	url = git@github.com:cmsc389T-fall21/cmsc389T-web-template.git
